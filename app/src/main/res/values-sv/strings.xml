@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gissa nästa kort</string>
+    <string name="play_button">Spela</string>
+    <string name="button_low">Låg</string>
+    <string name="button_high">Hög</string>
+    <string name="button_goBack">Tillbaka</string>
+    <string name="button_newGame">Nytt Spel</string>
+    <string name="button_endGame">Avsluta</string>
+    <string name="button_goB2">Tillbaka</string>
+</resources>

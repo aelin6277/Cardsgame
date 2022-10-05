@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Guess Next Card</string>
+    <string name="play_button">Play</string>
+    <string name="button_low">Low</string>
+    <string name="button_high">High</string>
+    <string name="button_goBack">Go Back</string>
+    <string name="button_newGame">New Game</string>
+    <string name="button_endGame">End Game</string>
+    <string name="button_goB2">Go Back</string>
+</resources>
